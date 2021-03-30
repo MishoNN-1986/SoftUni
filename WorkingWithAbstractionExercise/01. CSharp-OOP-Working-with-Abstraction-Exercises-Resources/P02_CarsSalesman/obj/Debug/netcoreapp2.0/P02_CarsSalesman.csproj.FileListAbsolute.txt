@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

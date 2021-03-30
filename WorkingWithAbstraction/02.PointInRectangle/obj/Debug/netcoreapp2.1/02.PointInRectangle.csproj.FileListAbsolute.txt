@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\bin\Debug\netcoreapp2.1\02.PointInRectangle.deps.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\bin\Debug\netcoreapp2.1\02.PointInRectangle.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\bin\Debug\netcoreapp2.1\02.PointInRectangle.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\bin\Debug\netcoreapp2.1\02.PointInRectangle.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\bin\Debug\netcoreapp2.1\02.PointInRectangle.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\obj\Debug\netcoreapp2.1\02.PointInRectangle.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\obj\Debug\netcoreapp2.1\02.PointInRectangle.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\obj\Debug\netcoreapp2.1\02.PointInRectangle.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\obj\Debug\netcoreapp2.1\02.PointInRectangle.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\obj\Debug\netcoreapp2.1\02.PointInRectangle.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\02.PointInRectangle\obj\Debug\netcoreapp2.1\02.PointInRectangle.csprojAssemblyReference.cache

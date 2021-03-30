@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\bin\Debug\netcoreapp2.1\01Persons.deps.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\bin\Debug\netcoreapp2.1\01Persons.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\bin\Debug\netcoreapp2.1\01Persons.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\bin\Debug\netcoreapp2.1\01Persons.dll
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\bin\Debug\netcoreapp2.1\01Persons.pdb
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\obj\Debug\netcoreapp2.1\01Persons.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\obj\Debug\netcoreapp2.1\01Persons.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\obj\Debug\netcoreapp2.1\01Persons.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\obj\Debug\netcoreapp2.1\01Persons.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\obj\Debug\netcoreapp2.1\01Persons.dll
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\01Persons\obj\Debug\netcoreapp2.1\01Persons.pdb

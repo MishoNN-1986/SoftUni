@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\obj\Debug\netcoreapp2.1\04.HotelReservation.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\obj\Debug\netcoreapp2.1\04.HotelReservation.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\obj\Debug\netcoreapp2.1\04.HotelReservation.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\obj\Debug\netcoreapp2.1\04.HotelReservation.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\bin\Debug\netcoreapp2.1\04.HotelReservation.deps.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\bin\Debug\netcoreapp2.1\04.HotelReservation.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\bin\Debug\netcoreapp2.1\04.HotelReservation.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\bin\Debug\netcoreapp2.1\04.HotelReservation.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\bin\Debug\netcoreapp2.1\04.HotelReservation.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\obj\Debug\netcoreapp2.1\04.HotelReservation.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\04.HotelReservation\obj\Debug\netcoreapp2.1\04.HotelReservation.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\bin\Debug\netcoreapp1.1\01SingleInheritance.deps.json
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\bin\Debug\netcoreapp1.1\01SingleInheritance.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\bin\Debug\netcoreapp1.1\01SingleInheritance.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\bin\Debug\netcoreapp1.1\01SingleInheritance.dll
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\bin\Debug\netcoreapp1.1\01SingleInheritance.pdb
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\obj\Debug\netcoreapp1.1\01SingleInheritance.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\obj\Debug\netcoreapp1.1\01SingleInheritance.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\obj\Debug\netcoreapp1.1\01SingleInheritance.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\obj\Debug\netcoreapp1.1\01SingleInheritance.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\obj\Debug\netcoreapp1.1\01SingleInheritance.dll
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\01SingleInheritance\obj\Debug\netcoreapp1.1\01SingleInheritance.pdb

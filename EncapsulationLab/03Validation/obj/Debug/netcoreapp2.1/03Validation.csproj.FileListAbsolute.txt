@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\bin\Debug\netcoreapp2.1\03Validation.deps.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\bin\Debug\netcoreapp2.1\03Validation.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\bin\Debug\netcoreapp2.1\03Validation.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\bin\Debug\netcoreapp2.1\03Validation.dll
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\bin\Debug\netcoreapp2.1\03Validation.pdb
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\obj\Debug\netcoreapp2.1\03Validation.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\obj\Debug\netcoreapp2.1\03Validation.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\obj\Debug\netcoreapp2.1\03Validation.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\obj\Debug\netcoreapp2.1\03Validation.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\obj\Debug\netcoreapp2.1\03Validation.dll
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\03Validation\obj\Debug\netcoreapp2.1\03Validation.pdb

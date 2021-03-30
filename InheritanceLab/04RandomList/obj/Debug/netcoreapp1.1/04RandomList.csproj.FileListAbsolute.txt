@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\bin\Debug\netcoreapp1.1\04RandomList.deps.json
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\bin\Debug\netcoreapp1.1\04RandomList.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\bin\Debug\netcoreapp1.1\04RandomList.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\bin\Debug\netcoreapp1.1\04RandomList.dll
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\bin\Debug\netcoreapp1.1\04RandomList.pdb
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\obj\Debug\netcoreapp1.1\04RandomList.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\obj\Debug\netcoreapp1.1\04RandomList.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\obj\Debug\netcoreapp1.1\04RandomList.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\obj\Debug\netcoreapp1.1\04RandomList.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\obj\Debug\netcoreapp1.1\04RandomList.dll
+C:\SoftUni\C# OOP - February 2020\InheritanceLab\04RandomList\obj\Debug\netcoreapp1.1\04RandomList.pdb

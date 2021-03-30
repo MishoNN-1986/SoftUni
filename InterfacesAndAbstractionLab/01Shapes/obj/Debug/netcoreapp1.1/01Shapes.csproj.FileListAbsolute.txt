@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\bin\Debug\netcoreapp1.1\01Shapes.deps.json
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\bin\Debug\netcoreapp1.1\01Shapes.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\bin\Debug\netcoreapp1.1\01Shapes.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\bin\Debug\netcoreapp1.1\01Shapes.dll
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\bin\Debug\netcoreapp1.1\01Shapes.pdb
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\obj\Debug\netcoreapp1.1\01Shapes.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\obj\Debug\netcoreapp1.1\01Shapes.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\obj\Debug\netcoreapp1.1\01Shapes.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\obj\Debug\netcoreapp1.1\01Shapes.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\obj\Debug\netcoreapp1.1\01Shapes.dll
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\01Shapes\obj\Debug\netcoreapp1.1\01Shapes.pdb

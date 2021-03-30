@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\bin\Debug\netcoreapp2.1\02Salary.deps.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\bin\Debug\netcoreapp2.1\02Salary.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\bin\Debug\netcoreapp2.1\02Salary.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\bin\Debug\netcoreapp2.1\02Salary.dll
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\bin\Debug\netcoreapp2.1\02Salary.pdb
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\obj\Debug\netcoreapp2.1\02Salary.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\obj\Debug\netcoreapp2.1\02Salary.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\obj\Debug\netcoreapp2.1\02Salary.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\obj\Debug\netcoreapp2.1\02Salary.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\obj\Debug\netcoreapp2.1\02Salary.dll
+C:\SoftUni\C# OOP - February 2020\EncapsulationLab\02Salary\obj\Debug\netcoreapp2.1\02Salary.pdb

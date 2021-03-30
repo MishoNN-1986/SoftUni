@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.deps.json
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.dll
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.pdb
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.dll
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\obj\Debug\netcoreapp2.1\02Cars.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\obj\Debug\netcoreapp2.1\02Cars.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\obj\Debug\netcoreapp2.1\02Cars.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\obj\Debug\netcoreapp2.1\02Cars.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\bin\Debug\netcoreapp2.1\02Cars.deps.json
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\bin\Debug\netcoreapp2.1\02Cars.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\bin\Debug\netcoreapp2.1\02Cars.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\bin\Debug\netcoreapp2.1\02Cars.dll
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\bin\Debug\netcoreapp2.1\02Cars.pdb
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\obj\Debug\netcoreapp2.1\02Cars.dll
+C:\SoftUni\C# OOP - February 2020\InterfacesAndAbstractionLab\02Cars\obj\Debug\netcoreapp2.1\02Cars.pdb

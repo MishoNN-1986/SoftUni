@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\bin\Debug\netcoreapp2.1\test.deps.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\bin\Debug\netcoreapp2.1\test.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\bin\Debug\netcoreapp2.1\test.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\obj\Debug\netcoreapp2.1\test.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\test\obj\Debug\netcoreapp2.1\test.pdb

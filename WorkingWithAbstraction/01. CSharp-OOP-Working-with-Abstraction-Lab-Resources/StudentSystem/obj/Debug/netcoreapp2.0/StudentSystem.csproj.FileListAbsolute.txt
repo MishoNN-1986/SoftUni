@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.deps.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\bin\Debug\netcoreapp2.1\02Animals.deps.json
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\bin\Debug\netcoreapp2.1\02Animals.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\bin\Debug\netcoreapp2.1\02Animals.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\bin\Debug\netcoreapp2.1\02Animals.dll
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\bin\Debug\netcoreapp2.1\02Animals.pdb
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\obj\Debug\netcoreapp2.1\02Animals.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\obj\Debug\netcoreapp2.1\02Animals.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\obj\Debug\netcoreapp2.1\02Animals.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\obj\Debug\netcoreapp2.1\02Animals.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\obj\Debug\netcoreapp2.1\02Animals.dll
+C:\SoftUni\C# OOP - February 2020\PolymorphismLab\02Animals\obj\Debug\netcoreapp2.1\02Animals.pdb

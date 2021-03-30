@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstractionExercise\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

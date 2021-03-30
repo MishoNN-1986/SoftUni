@@ -1,0 +1,11 @@
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\SoftUni\C# OOP - February 2020\WorkingWithAbstraction\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb
