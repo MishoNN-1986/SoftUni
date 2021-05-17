@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Username", "Username\Username.csproj", "{F7ACF4AE-F840-4C93-B1E9-60C7304B2F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{3237F5F2-ECE3-4AD1-A628-BCBC080F1214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Followers", "Followers\Followers.csproj", "{90C94F3A-D7C7-4A62-A0BD-A6E4C6AA272F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7ACF4AE-F840-4C93-B1E9-60C7304B2F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ACF4AE-F840-4C93-B1E9-60C7304B2F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ACF4AE-F840-4C93-B1E9-60C7304B2F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ACF4AE-F840-4C93-B1E9-60C7304B2F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3237F5F2-ECE3-4AD1-A628-BCBC080F1214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3237F5F2-ECE3-4AD1-A628-BCBC080F1214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3237F5F2-ECE3-4AD1-A628-BCBC080F1214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3237F5F2-ECE3-4AD1-A628-BCBC080F1214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C94F3A-D7C7-4A62-A0BD-A6E4C6AA272F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C94F3A-D7C7-4A62-A0BD-A6E4C6AA272F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C94F3A-D7C7-4A62-A0BD-A6E4C6AA272F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C94F3A-D7C7-4A62-A0BD-A6E4C6AA272F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB614AD8-FBEC-430A-8340-5119C929A98F}
+	EndGlobalSection
+EndGlobal
