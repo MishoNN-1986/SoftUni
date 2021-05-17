@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareArea", "SquareArea\SquareArea.csproj", "{E89C9E40-5E78-43E9-B2C2-89C84214ED56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E89C9E40-5E78-43E9-B2C2-89C84214ED56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89C9E40-5E78-43E9-B2C2-89C84214ED56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89C9E40-5E78-43E9-B2C2-89C84214ED56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89C9E40-5E78-43E9-B2C2-89C84214ED56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD7F8D7-5C43-49DF-9483-68F811C2FE29}
+	EndGlobalSection
+EndGlobal
