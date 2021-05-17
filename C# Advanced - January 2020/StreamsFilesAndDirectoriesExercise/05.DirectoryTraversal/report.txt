@@ -1,0 +1,6 @@
+.csproj 
+--../../../05.DirectoryTraversal.csproj - 0.384kb 
+.cs 
+--../../../Program.cs - 2.021kb 
+.txt 
+--../../../report.txt - 0.291kb
