@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicNumbers", "MagicNumbers\MagicNumbers.csproj", "{EA015AFD-B313-4611-9D93-B6CD2D9389C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA015AFD-B313-4611-9D93-B6CD2D9389C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA015AFD-B313-4611-9D93-B6CD2D9389C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA015AFD-B313-4611-9D93-B6CD2D9389C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA015AFD-B313-4611-9D93-B6CD2D9389C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CEA8457-CB81-4B79-88A4-D5C75D9B4F00}
+	EndGlobalSection
+EndGlobal

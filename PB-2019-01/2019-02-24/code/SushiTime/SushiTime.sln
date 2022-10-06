@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SushiTime", "SushiTime\SushiTime.csproj", "{BBA0321C-7836-45B1-AEAC-2C932D30F89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA0321C-7836-45B1-AEAC-2C932D30F89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA0321C-7836-45B1-AEAC-2C932D30F89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA0321C-7836-45B1-AEAC-2C932D30F89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA0321C-7836-45B1-AEAC-2C932D30F89A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824EBDE2-6F01-4F22-8621-A78378C5C861}
+	EndGlobalSection
+EndGlobal
