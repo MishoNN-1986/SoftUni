@@ -1,0 +1,28 @@
+div{
+    display: inline-block;
+    width: 30%;
+    margin-left:2%;
+    vertical-align: top;
+}
+
+span{
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+* li {
+    border-style: solid;
+    border-color: yellow;
+}
+* p {
+    color: purple;
+    padding: 5px;
+    
+}
+* span {
+    border-style: dotted;
+    border-color: darkcyan;
+}

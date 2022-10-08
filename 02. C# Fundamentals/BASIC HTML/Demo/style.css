@@ -1,0 +1,14 @@
+td, th {
+   border: 1px solid black;
+}
+p {
+    color: red;
+}
+
+#second-p {
+    color: blue;
+}
+
+span{
+    color: blue;
+}
