@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractionDemo", "AbstractionDemo\AbstractionDemo.csproj", "{76590BEC-0B90-4B03-BCA9-9BE17C854C64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractionDemo.Animals", "AbstractionDemo.Animals\AbstractionDemo.Animals.csproj", "{5AF4F5BA-F489-478F-9CCC-8F9685CD6F82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RhombusOfStars", "01.RhombusOfStars\01.RhombusOfStars.csproj", "{EE4D580A-3D61-40F0-A34D-F5FAFB0F4C21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PointInRectangle", "02.PointInRectangle\02.PointInRectangle.csproj", "{267A80F8-E5C8-4BA6-BD54-AFDBB697DA67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentSystem", "01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\StudentSystem.csproj", "{F42A818F-9077-4951-B73E-C5797842B763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HotelReservation", "04.HotelReservation\04.HotelReservation.csproj", "{396B4EEB-835F-4521-AA88-ED9AE23EF020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76590BEC-0B90-4B03-BCA9-9BE17C854C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76590BEC-0B90-4B03-BCA9-9BE17C854C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76590BEC-0B90-4B03-BCA9-9BE17C854C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76590BEC-0B90-4B03-BCA9-9BE17C854C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF4F5BA-F489-478F-9CCC-8F9685CD6F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF4F5BA-F489-478F-9CCC-8F9685CD6F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF4F5BA-F489-478F-9CCC-8F9685CD6F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF4F5BA-F489-478F-9CCC-8F9685CD6F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4D580A-3D61-40F0-A34D-F5FAFB0F4C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4D580A-3D61-40F0-A34D-F5FAFB0F4C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4D580A-3D61-40F0-A34D-F5FAFB0F4C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4D580A-3D61-40F0-A34D-F5FAFB0F4C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267A80F8-E5C8-4BA6-BD54-AFDBB697DA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267A80F8-E5C8-4BA6-BD54-AFDBB697DA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267A80F8-E5C8-4BA6-BD54-AFDBB697DA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267A80F8-E5C8-4BA6-BD54-AFDBB697DA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42A818F-9077-4951-B73E-C5797842B763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42A818F-9077-4951-B73E-C5797842B763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42A818F-9077-4951-B73E-C5797842B763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42A818F-9077-4951-B73E-C5797842B763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396B4EEB-835F-4521-AA88-ED9AE23EF020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396B4EEB-835F-4521-AA88-ED9AE23EF020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396B4EEB-835F-4521-AA88-ED9AE23EF020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396B4EEB-835F-4521-AA88-ED9AE23EF020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA6AC07-7627-4466-8BC0-D3FD1331AB8C}
+	EndGlobalSection
+EndGlobal
