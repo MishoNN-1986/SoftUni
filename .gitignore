@@ -387,3 +387,6 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 *.pptx
+lib/
+*.zip
+*.docx

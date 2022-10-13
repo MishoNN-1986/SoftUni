@@ -1,0 +1,471 @@
+[
+  {
+    "Id": 1,
+    "Genre": "Action",
+    "Games": [
+      {
+        "Id": 41,
+        "Title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "Developer": "CyberConnect2 Co. Ltd.",
+        "Tags": "Multi-player, Single-player, Steam Achievements, Full controller support, Steam Cloud, Steam Leaderboards",
+        "Players": 4
+      },
+      {
+        "Id": 28,
+        "Title": "Brawlhalla",
+        "Developer": "Blue Mammoth Games",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Single-player, Steam Achievements, Online Multi-Player, Full controller support, Shared/Split Screen, Cross-Platform Multiplayer, Online Co-op, Local Multi-Player, Local Co-op",
+        "Players": 3
+      },
+      {
+        "Id": 42,
+        "Title": "Team Fortress 2",
+        "Developer": "Valve",
+        "Tags": "Multi-player, Steam Trading Cards, Steam Workshop, In-App Purchases, Valve Anti-Cheat enabled, Steam Achievements, Partial Controller Support, Stats, Cross-Platform Multiplayer, Captions available, Includes level editor, Commentary available",
+        "Players": 3
+      },
+      {
+        "Id": 6,
+        "Title": "Trove",
+        "Developer": "Trion Worlds",
+        "Tags": "Co-op, Steam Trading Cards, Steam Workshop, In-App Purchases, Steam Achievements, Online Multi-Player, MMO",
+        "Players": 2
+      },
+      {
+        "Id": 16,
+        "Title": "Terraria",
+        "Developer": "Re-Logic",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Single-player, Steam Achievements, Online Multi-Player, Full controller support, Steam Cloud, Online Co-op",
+        "Players": 2
+      },
+      {
+        "Id": 24,
+        "Title": "Tom Clancy's Ghost Recon Wildlands",
+        "Developer": "Ubisoft Paris",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, In-App Purchases, Single-player, Partial Controller Support",
+        "Players": 2
+      },
+      {
+        "Id": 48,
+        "Title": "Rocket League",
+        "Developer": "Psyonix, Inc.",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Steam Workshop, Single-player, Steam Achievements, Stats, Full controller support, Shared/Split Screen, Cross-Platform Multiplayer, Steam Cloud",
+        "Players": 2
+      },
+      {
+        "Id": 49,
+        "Title": "Tom Clancy's Rainbow Six Siege",
+        "Developer": "Ubisoft Montreal",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, In-App Purchases, Single-player, Partial Controller Support",
+        "Players": 2
+      },
+      {
+        "Id": 51,
+        "Title": "Counter-Strike: Global Offensive",
+        "Developer": "Valve",
+        "Tags": "Multi-player, Steam Trading Cards, Steam Workshop, In-App Purchases, Valve Anti-Cheat enabled, Steam Achievements, Stats, Full controller support",
+        "Players": 2
+      },
+      {
+        "Id": 53,
+        "Title": "MONSTER HUNTER: WORLD",
+        "Developer": "CAPCOM Co., Ltd.",
+        "Tags": "Multi-player, Co-op, Single-player, Steam Achievements, Partial Controller Support, Stats",
+        "Players": 2
+      },
+      {
+        "Id": 66,
+        "Title": "Crash Bandicoot N. Sane Trilogy",
+        "Developer": "Vicarious Visions",
+        "Tags": "Steam Trading Cards, Single-player, Steam Achievements, Partial Controller Support, Steam Cloud",
+        "Players": 2
+      },
+      {
+        "Id": 72,
+        "Title": "The Crew 2",
+        "Developer": "Ivory Tower",
+        "Tags": "In-App Purchases, Single-player, Partial Controller Support, Online Multi-Player, Online Co-op, MMO",
+        "Players": 2
+      },
+      {
+        "Id": 9,
+        "Title": "Wreckfest",
+        "Developer": "Bugbear",
+        "Tags": "Multi-player, Steam Workshop, Single-player, Partial Controller Support, Stats, Online Multi-Player, Steam Leaderboards",
+        "Players": 1
+      },
+      {
+        "Id": 13,
+        "Title": "FOR HONOR",
+        "Developer": "Ubisoft Montreal",
+        "Tags": "Steam Trading Cards, In-App Purchases, Single-player, Partial Controller Support, Online Multi-Player, Online Co-op",
+        "Players": 1
+      },
+      {
+        "Id": 14,
+        "Title": "Total War: WARHAMMER II",
+        "Developer": "CREATIVE ASSEMBLY",
+        "Tags": "Multi-player, Steam Trading Cards, Single-player, Steam Achievements",
+        "Players": 1
+      },
+      {
+        "Id": 26,
+        "Title": "Squad",
+        "Developer": "Offworld Industries",
+        "Tags": "Multi-player, Steam Trading Cards, Valve Anti-Cheat enabled, Partial Controller Support, Online Multi-Player",
+        "Players": 1
+      },
+      {
+        "Id": 27,
+        "Title": "Vampyr",
+        "Developer": "DONTNOD Entertainment",
+        "Tags": "Steam Trading Cards, Single-player, Steam Achievements, Full controller support, Steam Cloud",
+        "Players": 1
+      },
+      {
+        "Id": 30,
+        "Title": "Far Cry 5",
+        "Developer": "Ubisoft Montreal",
+        "Tags": "Multi-player, Co-op, In-App Purchases, Single-player, Partial Controller Support, Captions available, Includes level editor",
+        "Players": 1
+      },
+      {
+        "Id": 31,
+        "Title": "Call of Duty: Black Ops III",
+        "Developer": "Treyarch",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Steam Workshop, Valve Anti-Cheat enabled, Single-player, Steam Achievements, Full controller support, Steam Leaderboards",
+        "Players": 1
+      },
+      {
+        "Id": 33,
+        "Title": "Guns, Gore and Cannoli 2",
+        "Developer": "Crazy Monkey Studios",
+        "Tags": "Co-op, Single-player, Steam Achievements, Stats, Online Multi-Player, Full controller support, Shared/Split Screen, Cross-Platform Multiplayer, Online Co-op, Local Multi-Player, Local Co-op",
+        "Players": 1
+      },
+      {
+        "Id": 34,
+        "Title": "DARK SOULS: REMASTERED",
+        "Developer": "QLOC",
+        "Tags": "Multi-player, Single-player, Steam Achievements, Full controller support",
+        "Players": 1
+      },
+      {
+        "Id": 38,
+        "Title": "SMITE",
+        "Developer": "Hi-Rez Studios",
+        "Tags": "Multi-player, Steam Trading Cards, Steam Achievements",
+        "Players": 1
+      },
+      {
+        "Id": 55,
+        "Title": "Rules Of Survival",
+        "Developer": "Netease Games",
+        "Tags": "In-App Purchases, Online Multi-Player",
+        "Players": 1
+      },
+      {
+        "Id": 58,
+        "Title": "Warface",
+        "Developer": "Crytek",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, In-App Purchases, Steam Achievements, MMO",
+        "Players": 1
+      },
+      {
+        "Id": 67,
+        "Title": "Paladins",
+        "Developer": "Hi-Rez Studios",
+        "Tags": "Multi-player, Steam Trading Cards, In-App Purchases, Steam Achievements, Partial Controller Support, Online Multi-Player",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 41
+  },
+  {
+    "Id": 6,
+    "Genre": "Indie",
+    "Games": [
+      {
+        "Id": 21,
+        "Title": "Dungeon Warfare 2",
+        "Developer": "Valsar",
+        "Tags": "Steam Workshop, Single-player, Steam Achievements, Steam Cloud",
+        "Players": 3
+      },
+      {
+        "Id": 39,
+        "Title": "Banished",
+        "Developer": "Shining Rock Software LLC",
+        "Tags": "Single-player, Steam Achievements",
+        "Players": 3
+      },
+      {
+        "Id": 2,
+        "Title": "Slay the Spire",
+        "Developer": "Mega Crit Games",
+        "Tags": "Single-player, Steam Achievements, Stats, Steam Cloud, Steam Leaderboards",
+        "Players": 1
+      },
+      {
+        "Id": 19,
+        "Title": "Garry's Mod",
+        "Developer": "Facepunch Studios",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Steam Workshop, Valve Anti-Cheat enabled, Single-player, Steam Achievements, Cross-Platform Multiplayer, Steam Cloud, Captions available, Includes level editor",
+        "Players": 1
+      },
+      {
+        "Id": 65,
+        "Title": "RimWorld",
+        "Developer": "Ludeon Studios",
+        "Tags": "Steam Workshop, Single-player, Steam Cloud",
+        "Players": 1
+      },
+      {
+        "Id": 69,
+        "Title": "Stardew Valley",
+        "Developer": "ConcernedApe",
+        "Tags": "Steam Trading Cards, Single-player, Steam Achievements, Partial Controller Support, Steam Cloud",
+        "Players": 1
+      },
+      {
+        "Id": 70,
+        "Title": "House Flipper",
+        "Developer": "Empyrean",
+        "Tags": "Steam Trading Cards, Single-player, Steam Achievements, Steam Cloud",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 11
+  },
+  {
+    "Id": 2,
+    "Genre": "Violent",
+    "Games": [
+      {
+        "Id": 50,
+        "Title": "Warframe",
+        "Developer": "Digital Extremes",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, In-App Purchases, Single-player, Partial Controller Support",
+        "Players": 6
+      },
+      {
+        "Id": 22,
+        "Title": "Soul at Stake",
+        "Developer": "Chongming Studio",
+        "Tags": "Multi-player, Co-op, Online Multi-Player, Steam Cloud, Online Co-op",
+        "Players": 2
+      },
+      {
+        "Id": 44,
+        "Title": "Black Desert Online",
+        "Developer": "Pearl Abyss",
+        "Tags": "Steam Trading Cards, In-App Purchases, Partial Controller Support, Online Multi-Player, Online Co-op, MMO",
+        "Players": 1
+      },
+      {
+        "Id": 57,
+        "Title": "Dead by Daylight",
+        "Developer": "Behaviour Digital Inc.",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Steam Achievements, Online Multi-Player, Full controller support, Steam Cloud, Online Co-op",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 10
+  },
+  {
+    "Id": 3,
+    "Genre": "Simulation",
+    "Games": [
+      {
+        "Id": 10,
+        "Title": "NBA 2K18",
+        "Developer": "Visual Concepts",
+        "Tags": "Multi-player, Single-player, Steam Achievements, Full controller support, Shared/Split Screen, Steam Cloud",
+        "Players": 2
+      },
+      {
+        "Id": 46,
+        "Title": "Planet Coaster",
+        "Developer": "Frontier Developments",
+        "Tags": "Steam Trading Cards, Steam Workshop, Single-player, Steam Achievements, Steam Cloud",
+        "Players": 2
+      },
+      {
+        "Id": 17,
+        "Title": "Bridge Constructor Portal",
+        "Developer": "ClockStone",
+        "Tags": "Steam Trading Cards, Single-player, Steam Achievements, Full controller support, Steam Cloud",
+        "Players": 1
+      },
+      {
+        "Id": 20,
+        "Title": "Pro Cycling Manager 2018",
+        "Developer": "Cyanide Studio",
+        "Tags": "Steam Trading Cards, Steam Workshop, Single-player, Steam Achievements, Online Multi-Player, Steam Cloud",
+        "Players": 1
+      },
+      {
+        "Id": 73,
+        "Title": "Football Manager 2018",
+        "Developer": "Sports Interactive",
+        "Tags": "Multi-player, Steam Workshop, Single-player, Steam Achievements, Steam Cloud, Steam Leaderboards",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 7
+  },
+  {
+    "Id": 5,
+    "Genre": "Nudity",
+    "Games": [
+      {
+        "Id": 40,
+        "Title": "Path of Exile",
+        "Developer": "Grinding Gear Games",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, In-App Purchases, Single-player, Steam Achievements, Online Multi-Player, MMO",
+        "Players": 2
+      },
+      {
+        "Id": 15,
+        "Title": "Rust",
+        "Developer": "Facepunch Studios",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Steam Workshop, In-App Purchases, Valve Anti-Cheat enabled, Steam Achievements, Stats, Online Multi-Player, Cross-Platform Multiplayer, Online Co-op, MMO",
+        "Players": 1
+      },
+      {
+        "Id": 29,
+        "Title": "Conan Exiles",
+        "Developer": "Funcom",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Steam Workshop, Single-player, Steam Achievements, Online Multi-Player, Full controller support, Online Co-op",
+        "Players": 1
+      },
+      {
+        "Id": 74,
+        "Title": "The Witcher 3: Wild Hunt",
+        "Developer": "CD PROJEKT RED",
+        "Tags": "Steam Trading Cards, Single-player, Steam Achievements, Full controller support, Steam Cloud",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 5
+  },
+  {
+    "Id": 9,
+    "Genre": "Adventure",
+    "Games": [
+      {
+        "Id": 25,
+        "Title": "Neverwinter",
+        "Developer": "Cryptic Studios",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, In-App Purchases, MMO, Includes level editor",
+        "Players": 3
+      },
+      {
+        "Id": 32,
+        "Title": "Human: Fall Flat",
+        "Developer": "No Brakes Games",
+        "Tags": "Steam Trading Cards, Single-player, Steam Achievements, Stats, Online Multi-Player, Full controller support, Shared/Split Screen, Steam Cloud, Local Co-op",
+        "Players": 1
+      },
+      {
+        "Id": 62,
+        "Title": "Divinity: Original Sin 2",
+        "Developer": "Larian Studios",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Steam Workshop, Single-player, Steam Achievements, Online Multi-Player, Full controller support, Shared/Split Screen, Steam Cloud, Online Co-op, Captions available, Includes level editor, Local Multi-Player, Local Co-op",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 5
+  },
+  {
+    "Id": 8,
+    "Genre": "Free to Play",
+    "Games": [
+      {
+        "Id": 5,
+        "Title": "Yu-Gi-Oh! Duel Links",
+        "Developer": "Konami Digital Entertainment",
+        "Tags": "Steam Trading Cards, In-App Purchases, Single-player, Steam Achievements, Online Multi-Player, Cross-Platform Multiplayer",
+        "Players": 1
+      },
+      {
+        "Id": 64,
+        "Title": "Shadowverse CCG",
+        "Developer": "Cygames, Inc.",
+        "Tags": "Multi-player, In-App Purchases, Single-player, Online Multi-Player, Cross-Platform Multiplayer",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 2
+  },
+  {
+    "Id": 10,
+    "Genre": "Massively Multiplayer",
+    "Games": [
+      {
+        "Id": 59,
+        "Title": "FINAL FANTASY XIV Online",
+        "Developer": "Square Enix",
+        "Tags": "Multi-player, Co-op, Single-player, Partial Controller Support, Online Multi-Player, Cross-Platform Multiplayer, Online Co-op, MMO",
+        "Players": 2
+      }
+    ],
+    "TotalPlayers": 2
+  },
+  {
+    "Id": 11,
+    "Genre": "Casual",
+    "Games": [
+      {
+        "Id": 4,
+        "Title": "Factorio",
+        "Developer": "Wube Software LTD.",
+        "Tags": "Multi-player, Single-player, Steam Achievements, Online Multi-Player, Cross-Platform Multiplayer, Steam Cloud, Includes level editor, Local Multi-Player",
+        "Players": 2
+      }
+    ],
+    "TotalPlayers": 2
+  },
+  {
+    "Id": 4,
+    "Genre": "Strategy",
+    "Games": [
+      {
+        "Id": 45,
+        "Title": "Warhammer 40,000: Gladius - Relics of War",
+        "Developer": "Proxy Studios",
+        "Tags": "Multi-player, Co-op, Steam Trading Cards, Single-player, Online Multi-Player, Cross-Platform Multiplayer, Steam Cloud, Online Co-op",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  },
+  {
+    "Id": 7,
+    "Genre": "Single-player",
+    "Games": [
+      {
+        "Id": 54,
+        "Title": "Raft",
+        "Developer": "Redbeet Interactive",
+        "Tags": "Single-player, Steam Achievements, Online Multi-Player, Steam Cloud, Online Co-op",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  },
+  {
+    "Id": 12,
+    "Genre": "RPG",
+    "Games": [
+      {
+        "Id": 18,
+        "Title": "The Elder Scrolls V: Skyrim Special Edition",
+        "Developer": "Bethesda Game Studios",
+        "Tags": "Single-player, Steam Achievements, Partial Controller Support, Steam Cloud",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  }
+]

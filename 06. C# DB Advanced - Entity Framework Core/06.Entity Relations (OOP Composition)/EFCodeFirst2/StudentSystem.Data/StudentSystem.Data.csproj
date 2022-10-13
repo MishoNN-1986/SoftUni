@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220316153408_StudentsAdded.cs" />
+    <Compile Remove="Migrations\20220316153853_StudentsAdded.cs" />
+    <Compile Remove="Migrations\20220316154233_StudentsAdded.cs" />
+    <Compile Remove="Migrations\20220317071947_StudentsAdded.cs" />
+    <Compile Remove="Migrations\20220317091224_CourseAdded.cs" />
+    <Compile Remove="Migrations\20220317101312_StudentCoursesAdded.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
