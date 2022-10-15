@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Panda.App": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:59381;http://localhost:59382"
+    }
+  }
+}

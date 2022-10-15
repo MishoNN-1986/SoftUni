@@ -1,0 +1,38 @@
+﻿@using MyFirstMvcApp.Models.Home
+@using MyFirstMvcApp.Services
+
+@model IndexViewModel
+@*@model MyFirstMvcApp.Models.Home.IndexViewModel*@
+@inject IUsersService UsersService
+@{
+    //this.Layout = null;
+    ViewData["Title"] = "Home Page";
+    <h1>Hello to @UsersService.GetCount() user(s)!</h1>
+    //var someDbValue = "<script>alert('test');</script>";
+    //int num = 5;
+}
+@Html.TextBoxFor(x => x.Input)
+@Html.DisplayNameFor(x => x.Input)
+<input for="Input" />
+@*@Html.TextBoxFor(x => x.Input2)*@
+@*@someDbValue + 1
+<b>@(num+1)</b>
+
+@{
+    var misho = "";
+}
+
+@misho
+<br>
+<span>Hello!</span>
+</br>
+<br>
+<text>Hi!!!</text>
+</br>*@
+
+<h1>Hello!</h1>
+@foreach (var item in this.Model.Usernames)
+{
+    @item
+}
+
